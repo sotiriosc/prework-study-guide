@@ -34,17 +34,9 @@ p {
     font-size: 30px;
   }
 
-<<<<<<< HEAD
   .card {
-=======
-.card {
->>>>>>> 6e4cf47cf6bd3fb73bda0f3b4db221e896ecd1ba
     width: 80%;
     margin: 40px auto;
     border: 5px solid gray;
-    box-shadow: 5px 10px #908482;
-<<<<<<< HEAD
+    box-shadow: 5px 10px #888888;
   }
-=======
-  }
->>>>>>> 6e4cf47cf6bd3fb73bda0f3b4db221e896ecd1ba
